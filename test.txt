@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>jayhom123</title>
+	<title>jayhom</title>
 </head>
 <body>
 	
